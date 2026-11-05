@@ -32,14 +32,10 @@ I like building things that solve real problems, and I'm looking for a **2027–
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samwd06&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwd06&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samwd06&theme=transparent" alt="GitHub stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samwd06&theme=transparent" alt="Most committed languages">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=samwd06&theme=transparent&hide_border=true" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samwd06&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies">
 </p>

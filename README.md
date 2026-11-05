@@ -11,7 +11,7 @@ I like building things that solve real problems, and I'm looking for a **2027–
 - 🚇 Building [**Tube Alarm**](https://github.com/samwd06/tube-alarm), an Android app that tracks your London Underground journey by GPS and wakes you one stop before you need to get off, with live TfL disruption warnings
 - 🎯 Built [**Aim Trainer**](https://github.com/samwd06/aim-trainer), a 2D physics-based aim-training game in Java with three levels and a saved score graph
 - 🌱 Currently learning C++ and data structures and algorithms
-- 🏏 Outside of code, I work match days at Lord's Cricket Ground and as a door supervisor
+- 🏏 Outside of code, I enjoy sim racing!
 - 📫 Reach me at [wadudsamin3@gmail.com](mailto:wadudsamin3@gmail.com)
 
 ## Featured projects

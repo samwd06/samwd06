@@ -6,7 +6,7 @@
   <a href="mailto:wadudsamin3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I like building things that solve real problems, and I'm looking for a **2027–28 software or IT placement in London**.
+I like building things that solve real problems.
 
 - 🚇 Building [**Tube Alarm**](https://github.com/samwd06/tube-alarm), an Android app that tracks your London Underground journey by GPS and wakes you one stop before you need to get off, with live TfL disruption warnings
 - 🎯 Built [**Aim Trainer**](https://github.com/samwd06/aim-trainer), a 2D physics-based aim-training game in Java with three levels and a saved score graph

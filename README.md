@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samin Wadud</h1>
-<h3 align="center">Second-year Computer Science student at City St George's, University of London</h3>
+<h3 align="center">Second-year Computer Science student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samin-wadud-a51a7129a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

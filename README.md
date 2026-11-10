@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samin Wadud</h1>
+<h1 align="center">Hi, I'm Samin</h1>
 <h3 align="center">Second-year Computer Science student</h3>
 
 <p align="center">
